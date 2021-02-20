@@ -129,7 +129,7 @@ To contribute to the project follow the steps below:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Agradecimentos
 
@@ -137,4 +137,4 @@ This project was developed based on the classes proposed by the team at [Rockese
 
 <!-- Markdown link & img dfn's -->
 [ptbr-image]: https://i.imgur.com/D04C8eI.jpeg
-[ptbr-url]: README.pt-br.md
+[ptbr-url]: README.pt-BR.md

@@ -128,7 +128,7 @@ Para contribuiur com o projeto siga as etapas abaixo:
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para ver os detalhes
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE) para ver os detalhes
 
 ## Agradecimentos
 
@@ -136,4 +136,4 @@ Este projeto foi desenvolvido com base nas aulas propostas pela equipe da [Rocke
 
 <!-- Markdown link & img dfn's -->
 [ptbr-image]: https://i.imgur.com/D04C8eI.jpeg
-[ptbr-url]: README.pt-br.md
+[ptbr-url]: README.pt-BR.md
