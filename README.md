@@ -131,7 +131,7 @@ To contribute to the project follow the steps below:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
-## Agradecimentos
+## Acknowledgments
 
 This project was developed based on the classes proposed by the team at [Rockeseat Education](https://github.com/rocketseat-education)
 
