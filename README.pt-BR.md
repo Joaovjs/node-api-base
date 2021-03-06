@@ -93,7 +93,7 @@ $ yarn
 Execute os testes para validar se está tudo funcionando como deveria
 
 ```
-$ yarn typeorm
+$ yarn test
 ```
 
 ## Executando em modo de desenvolvimento
