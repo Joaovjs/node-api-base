@@ -94,7 +94,7 @@ $ yarn
 Run the tests to validate that everything is working fine
 
 ```
-$ yarn typeorm
+$ yarn test
 ```
 
 ## Running in development mode
